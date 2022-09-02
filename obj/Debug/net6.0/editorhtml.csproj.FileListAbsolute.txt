@@ -1,0 +1,15 @@
+/home/juliano/projetos/editorhtml/bin/Debug/net6.0/editorhtml
+/home/juliano/projetos/editorhtml/bin/Debug/net6.0/editorhtml.deps.json
+/home/juliano/projetos/editorhtml/bin/Debug/net6.0/editorhtml.runtimeconfig.json
+/home/juliano/projetos/editorhtml/bin/Debug/net6.0/editorhtml.dll
+/home/juliano/projetos/editorhtml/bin/Debug/net6.0/editorhtml.pdb
+/home/juliano/projetos/editorhtml/obj/Debug/net6.0/editorhtml.csproj.AssemblyReference.cache
+/home/juliano/projetos/editorhtml/obj/Debug/net6.0/editorhtml.GeneratedMSBuildEditorConfig.editorconfig
+/home/juliano/projetos/editorhtml/obj/Debug/net6.0/editorhtml.AssemblyInfoInputs.cache
+/home/juliano/projetos/editorhtml/obj/Debug/net6.0/editorhtml.AssemblyInfo.cs
+/home/juliano/projetos/editorhtml/obj/Debug/net6.0/editorhtml.csproj.CoreCompileInputs.cache
+/home/juliano/projetos/editorhtml/obj/Debug/net6.0/editorhtml.dll
+/home/juliano/projetos/editorhtml/obj/Debug/net6.0/editorhtml.pdb
+/home/juliano/projetos/editorhtml/obj/Debug/net6.0/editorhtml.genruntimeconfig.cache
+/home/juliano/projetos/editorhtml/obj/Debug/net6.0/ref/editorhtml.dll
+/home/juliano/projetos/editorhtml/bin/Debug/net6.0/ref/editorhtml.dll
